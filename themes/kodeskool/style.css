@@ -9,3 +9,39 @@
  Version: 1.0
 
 */
+
+/* GGOGLE FONTS
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+
+**/
+
+/** NAV STYLES **/
+
+.navbar-brand {padding: 0px;} /* REMOVES EXCESS PADDING ON NAVBAR */
+
+
+/**CONTENT STYLES **/
+
+pre     {
+	background-color: beige;
+    padding: 10px;
+    font-family: courier;
+}
+
+/** TYPOGRAPHY **/
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+font-family: 'Roboto Condensed', sans-serif;	
+text-transform: uppercase;
+font-weight: 600;
+}
